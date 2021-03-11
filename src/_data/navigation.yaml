@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Home
+    url: "/"
+  - text: Witness
+    url: "https://witness.at"
+  - text: Courses
+    url: "https://teachable.purplehippo.io"
   - text: Blog
     url: "/blog"
